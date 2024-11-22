@@ -1,0 +1,143 @@
+disabled = false
+languageCode = 'zh-CN'
+languageName = '中文'
+title = 'AI4SUS' # 这将显示在标题中
+copyright = """© 2024 AI4SUS. All rights reserved.""" 
+contentDir = "content/zh"
+
+# 将单个参数设置为 "false" 可移除渲染
+
+[params]
+  subtitle = "AI For Sustainability"
+  # 页面
+  [params.homepage]
+    ###
+    # preTitle = '免费 Hugo 主题'
+    title = "AI For Sustainability"
+    intro= """
+### "AI赋能可持续发展"
+___
+
+- AI For Sustainability（AI4SUS）是一个跨学科研究小组，由唐国明教授于2024年成立，成员来自香港科技大学（广州）、香港中文大学（深圳）、南方科技大学、山东大学等。
+- 我们的研究领域包括：非侵入式负荷监测...
+
+        """
+    mainButton = "特性"
+    mainButtonRef = "features"
+    secondButton = "联系我们"
+    secondButtonRef = "contact" 
+    
+    # blogTitle = "精彩故事"
+    # blogButton= "更多故事"
+
+[params.office]
+  title = "办公室"
+  description = "这个页面可以通过添加 Google 地图链接轻松定制，以获取到业务地点的路线。"
+  buttonText = "获取路线" 
+  buttonLink = "https://maps.app.goo.gl/LzsPzRkTYSZ8SF3y8" 
+  mapLink = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d382266.44569392945!2d-76.55832397784323!3d41.53770983690751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c4d93a77484bbb%3A0xfff27920ab9bfae8!2sScranton%2C%20Pennsylvania%2C%20Stati%20Uniti!5e0!3m2!1sit!2sit!4v1716459350324!5m2!1sit!2sit"
+
+[params.contacts]
+  title = "联系我们！"
+  formCallToAction = "这是一个示例页面；你可以在 FormSpree（免费）上接收表单回复。"
+  socialCallToAction = "你可以在下面添加你的社交媒体链接！" 
+  [params.contacts.form]
+    formspreeLink = "https://yourformspreelink.com"
+    firstname = "名字*"
+    lastname = "姓氏*"
+    email = "电子邮件*"
+    phone = "电话号码*"
+    Inquiry = "咨询内容*"
+    checkbox = "我同意按照法律规定处理我的数据*"
+    submitBtn = "提交"
+
+[params.services]
+  title = "特性"
+  description = """我在构建这个主题时考虑到了简单性：它小巧且易于定制、响应式、模块化和多语言。但它也为更深入的定制留有空间，因为它使用了 Bootstrap 和 SCSS。
+  这个页面还展示了如何更改站点页面名称的示例：站点将使用 `services.html` 布局，但页面将被命名为"特性"，链接将使用相对永久链接 `/features`。"""
+  [params.services.list]
+    [params.services.list.0]
+      title= "响应式"
+      description= "主题完全响应式，在任何屏幕尺寸上都能完美显示。"
+    [params.services.list.01]
+      title = "模块化"
+      description= "通过配置文件轻松隐藏和显示某些元素"
+    [params.services.list.02]
+      title = "多语言"
+      description= "内容的默认语言是英语（可以更改），但你可以非常简单地添加任何你想要的语言；主题包含意大利语示例和一个用于轻松切换语言的下拉菜单。永久链接可以在每种语言中本地化。"
+    [params.services.list.03]
+      title = "可定制"
+      description= "页面内容可以在配置文件中定制。一些变量可以在 SCSS 文件中更改。"
+    [params.services.list.04]
+      title = "SEO 就绪"
+      description= "/content 中的每个页面都有一个易于定制的*元描述*和唯一的*元标题*，以实现更好更容易的索引。主题将使用 `static/img/meta-image` 作为 Google、Meta 和 X 的元图像。"
+    [params.services.list.05]
+      title = "集成 Google Analytics"
+      description= "在 `config.toml` 文件中放入你的 Google Analytics 标签，你就可以轻松监控你的站点性能。"
+    [params.services.list.06]
+      title = "包含 Google Maps"
+      description= "联系页面可以通过添加 Google 地图链接轻松定制，以获取到业务地点的路线。"
+
+[params.socials]
+  enabled = true 
+  callToAction= "在社交媒体上与我们联系 >"
+      [[params.socials.link]]
+        name = "github"
+        link = "https://github.com/ololiuhqui/magnolia-free-hugo-theme"
+      [[params.socials.link]]
+        name = "linkedin"
+        link = ""
+      [[params.socials.link]]
+        name = "whatsapp"
+        link = ""
+
+[params.schedules]
+  enabledFooter = false 
+  enabledContacts = true 
+  title = "办公时间"
+  [params.schedules.days]
+    day1 = "周一：9:00 – 19:00"
+    day2 = "周二：9:00 – 19:00"
+    day3 = "周三：9:00 – 19:00"
+    day4 = "周四：9:00 – 19:00"
+    day5 = "周五：9:00 – 19:00"
+    day6 = ""
+    day7 = ""
+
+[params.footer]
+  extraDescription1 = "来自斯克兰顿市"
+  extraDescription2 = "税号：0000000000"
+  [params.footer.navigate]
+  heading = "导航"   
+  [params.footer.contacts]
+  enabled = true 
+  heading = "联系方式"
+  address = "斯克兰顿 2865 Pouros Corners 55441-0788"
+  mail = "dundermifflin@fakemail.com"
+  mail2 = "dundermifflinorders@fakemail.com"
+  phone = "+00 0000000"
+  
+[params.notfound]
+  title = "404，页面未找到"
+
+[params.single]
+  similarContent= "相关内容"
+  toc= "目录"
+
+[menus]
+  [[menus.main]]
+  name = "首页"
+  pageRef = "/"
+  weight = 1
+  [[menus.main]]
+  name = "特性"
+  pageRef = "pages/services"
+  weight = 2
+  [[menus.main]]
+  name = "办公室"
+  pageRef = "pages/office"
+  weight = 3
+  [[menus.main]]
+  name = "联系我们"
+  pageRef = "pages/contacts"
+  weight = 4

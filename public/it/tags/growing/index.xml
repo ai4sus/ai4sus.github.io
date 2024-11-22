@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Growing on AI4SUS</title>
+    <link>http://localhost:1313/it/tags/growing/</link>
+    <description>Recent content in Growing on AI4SUS</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <copyright>© 2024 AI4SUS. All rights reserved.</copyright>
+    <atom:link href="http://localhost:1313/it/tags/growing/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

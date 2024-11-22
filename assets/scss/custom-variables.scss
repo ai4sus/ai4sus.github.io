@@ -1,0 +1,35 @@
+/* HERE YOU CAN DEFINE YOUR OWN CUSTOM VARIABLES FOR COLORS */
+
+/* You can uncomment and change these variables to change the theme appearance */
+
+// /* body color and background */
+// $body-bg: #ecebe9;
+// $body-color: #261c15;
+
+// /* main palette */
+// $primary: #3d3b8e;
+// $secondary: #E0DEDC;
+// $dark: $body-color;
+// $light: $body-bg /* used for text in dark sections */;
+
+// /* others */
+// $input-focus-border-color: $body-color;
+// $input-btn-focus-box-shadow: 0 0 1px 2px $body-color;
+// $border-color: tint-color($body-color, 85%);
+// $input-bg: tint-color($light, 15%);
+
+// body color and background
+$body-bg: #FFFFFF; /* 深黑背景 */
+$body-color: #000000; /* 白色文本 */
+
+// main palette
+$primary: #000000; 
+$secondary: #FFFFFF; /* 深灰色，作为次要颜色 */
+$dark: $body-color; /* 使用白色文本 */
+$light: $body-bg; /* 黑色背景用于深色部分的文字 */
+
+// others
+$input-focus-border-color: #00FFFF; /* 青色边框高亮 */
+$input-btn-focus-box-shadow: 0 0 1px 2px #00FFFF; /* 青色聚焦阴影 */
+$border-color: #CCCCCC; /* 浅灰色边框 */
+$input-bg: #FFFFFF; /* 深灰色输入框背景 */
