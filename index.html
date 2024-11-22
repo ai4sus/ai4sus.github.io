@@ -2,34 +2,123 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI For Sustainability</title>
-    <link rel="stylesheet" href="style.css">
+    <!-- meta:desc -->
+    <meta name="description" content="AI for Sustainability">
+    <!-- meta:kw -->
+    <meta name="keywords" content="AI, Sustainability, NILM, Peak shaving">
+    <title>AI for Sustainability</title>
+    <!-- link:favicon -->
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <!-- 按顺序引入: 外链式样式表后写的生效 -->
+    <link rel="stylesheet" href="./css/base.css">
+    <link rel="stylesheet" href="./css/index-old.css">
+    <script>
+        // 定义一个函数来更改中间内容
+        function changeContent(contentId) {
+            const contentMap = {
+                overview: `
+            
+                    <div class="title">AI For Sustainability Overview</div>
+                    <p>
+                        Artificial Intelligence (AI) for sustainability encompasses innovative applications aimed at addressing environmental challenges and promoting energy efficiency. Our work in this domain focuses on key areas such as Non-Intrusive Load Monitoring (NILM) for granular energy consumption analysis and Battery Energy Storage System (BESS)-based peak shaving to optimize energy usage and reduce demand charges. By integrating advanced AI techniques, these efforts contribute to sustainable energy management and carbon footprint reduction.
+                        These technologies are not standalone solutions; they are interconnected and mutually reinforcing. For instance, data from NILM can inform BESS operations by providing detailed insights into usage patterns, enabling better coordination between demand-side management and storage systems. This synergy creates a more adaptive and resilient energy ecosystem.
+                    </p>
+                    <img src="assets/overview.png">
+                    <p>
+                        In summary, AI for sustainability is a promising field that addresses critical energy challenges through innovative solutions like NILM and BESS-based peak shaving. By applying advanced AI models to these areas, our work aims to contribute to a sustainable future, where energy systems are more efficient, reliable, and environmentally friendly. These efforts not only align with global goals for sustainability but also pave the way for a smarter and greener energy landscape.
+                    </p>
+                    
+                `,
+                research: `
+                    <div class="title">Research Highlights</div>
+
+                    <div class="card">
+                        <h2 class="card-title">Towards Real-world Deployment of NILM Systems: Challenges and Practices</h2>
+                        <p class="card-description">
+                            This study addresses the challenges of deploying Non-Intrusive Load Monitoring (NILM) systems in real-world environments by proposing a three-tier framework based on edge-cloud collaboration. The framework distributes lightweight computational tasks to edge devices while leveraging the cloud for more complex tasks, ensuring efficiency and scalability. The implementation integrates Gunicorn and NGINX for better load balancing and concurrency handling. Experimental results demonstrate that this approach significantly reduces response time, alleviates cloud workload, and achieves high decomposition accuracy for NILM tasks, paving the way for practical NILM applications.
+                        </p>
+                        <hr class="divider">
+                        <p class="reference">
+                            Junyu Xue, Yu Zhang, Xudong Wang, Yi Wang, Guoming Tang.
+                            <a href="https://arxiv.org/abs/2409.14821" class="reference-link" target="_blank">Towards Real-world Deployment of NILM Systems: Challenges and Practices</a>,
+                            Proc. the Sustainable Computing Conference (SusCom '24), September 2024.
+                        </p>
+                        <!--<p class="extra-info">-->
+                        <!--     e-Energy, June 2019: <a href="#" class="extra-link">Slides</a> -->
+                        <!--</p>-->
+                    </div>
+
+                    <div class="card">
+                        <h2 class="card-title">Power Demand Reshaping Using Energy Storage for Distributed Edge Clouds</h2>
+                        <p class="card-description">
+                            This study explores the integration of backup batteries as distributed Battery Energy Storage Systems (BESS) to reduce energy costs for Edge Service Providers (ESPs). The energy costs, primarily composed of energy charges and demand charges, can be significantly mitigated through strategic BESS scheduling. The authors propose a Deep Reinforcement Learning (DRL) approach combined with innovations like invalid action masking and prioritized experience replay to optimize BESS operations under dynamic power demands. Experimental results, leveraging real-world edge cloud power traces, demonstrate that this method reduces peak demand charges by up to 27% and overall energy costs by up to 13%.
+                        </p>
+                        <hr class="divider">
+                        <p class="reference">
+                            Dongyu Zheng, Lei Liu, Guoming Tang, Yi Wang, Weichao Li.
+                            <a href="https://ieeexplore.ieee.org/document/10375778" class="reference-link" target="_blank">Power Demand Reshaping Using Energy Storage for Distributed Edge Clouds</a>,
+                            IEEE Transactions on Parallel and Distributed Systems (TPDS), February 2024.
+                        </p>
+                        <!--<p class="extra-info">-->
+                        <!--     e-Energy, June 2019: <a href="#" class="extra-link">Slides</a> -->
+                        <!--</p>-->
+                    </div>
+
+                `,
+
+                info:`
+                    <div class="title">Information</div>
+                `
+                ,
+                data: `
+                    <div class="title">Data Insights</div>
+                    <p>
+                        Data plays a pivotal role in driving AI solutions for sustainability. Key datasets include:
+                    </p>
+                    <ul>
+                        <li>Energy consumption patterns</li>
+                        <li>Smart meter readings</li>
+                        <li>Renewable energy sources integration</li>
+                    </ul>
+                `
+                ,
+                simulator:`
+                    <div class="title">Simulator</div>
+                `
+            };
+            // 更新中间内容
+            document.querySelector('.content').innerHTML = contentMap[contentId] || '<p>Content not available.</p>';
+        }
+    </script>
 </head>
 <body>
     <header>
         <h1>AI For Sustainability</h1>
         <nav>
             <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#info">Info</a></li>
-                <li><a href="#research">Research</a></li>
-                <li><a href="#data">Data</a></li>
-                <li><a href="#simulator">Simulator</a></li>
+                <li><a href="#home" onclick="changeContent('overview')">OVERVIEW</a></li>
+                <li><a href="#info" onclick="changeContent('info')">INFO</a></li>
+                <li><a href="#research" onclick="changeContent('research')">RESEARCH</a></li>
+                <li><a href="#data" onclick="changeContent('data')">DATA</a></li>
+                <li><a href="#simulator" onclick="changeContent('simulator')">SIMULATOR</a></li>
             </ul>
         </nav>
     </header>
 
-    <section id="hero">
-        <img src="assets/background.jpg" alt="Background">
-        <h2>XXX</h2>
-    </section>
 
-    <section id="content">
-        <h3>AI For Sustainability Overview</h3>
-        <p>Electric vehicles are growing in popularity globally...</p>
-        <img src="assets/diagram.png" alt="Diagram">
-    </section>
+    <div class="content">
+        <div class="title">AI For Sustainability Overview</div>
+        <p>
+            Artificial Intelligence (AI) for sustainability encompasses innovative applications aimed at addressing environmental challenges and promoting energy efficiency. Our work in this domain focuses on key areas such as Non-Intrusive Load Monitoring (NILM) for granular energy consumption analysis and Battery Energy Storage System (BESS)-based peak shaving to optimize energy usage and reduce demand charges. By integrating advanced AI techniques, these efforts contribute to sustainable energy management and carbon footprint reduction.
+            These technologies are not standalone solutions; they are interconnected and mutually reinforcing. For instance, data from NILM can inform BESS operations by providing detailed insights into usage patterns, enabling better coordination between demand-side management and storage systems. This synergy creates a more adaptive and resilient energy ecosystem.
+        </p>
+        <img src="assets/overview.png">
+        <p>
+            In summary, AI for sustainability is a promising field that addresses critical energy challenges through innovative solutions like NILM and BESS-based peak shaving. By applying advanced AI models to these areas, our work aims to contribute to a sustainable future, where energy systems are more efficient, reliable, and environmentally friendly. These efforts not only align with global goals for sustainability but also pave the way for a smarter and greener energy landscape.
+        </p>
+    </div>
 
     <footer>
         <p>© 2024 AI For Sustainability. All rights reserved.</p>
