@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /en/404
+
+Disallow: /zh/404
+
+Sitemap: https://ai4sus.com//sitemap.xml
