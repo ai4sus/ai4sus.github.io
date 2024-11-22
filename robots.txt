@@ -4,4 +4,4 @@ Disallow: /en/404
 
 Disallow: /zh/404
 
-Sitemap: https://www.ai4sus.com//sitemap.xml
+Sitemap: https://ai4sus.com//sitemap.xml
