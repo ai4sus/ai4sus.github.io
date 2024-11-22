@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flowers on AI4SUS</title>
-    <link>https://ai4sus.com/tags/flowers/</link>
+    <link>https://ai4sus.github.io/tags/flowers/</link>
     <description>Recent content in Flowers on AI4SUS</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>© 2024 AI4SUS. All rights reserved.</copyright>
-    <atom:link href="https://ai4sus.com/tags/flowers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ai4sus.github.io/tags/flowers/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

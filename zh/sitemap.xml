@@ -2,100 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ai4sus.com/zh/</loc>
+    <loc>https://ai4sus.github.io/zh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ai4sus.com/"
+                href="https://ai4sus.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://ai4sus.com/zh/"
+                href="https://ai4sus.github.io/zh/"
                 />
   </url><url>
-    <loc>https://ai4sus.com/contacts/</loc>
+    <loc>https://ai4sus.github.io/contacts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ai4sus.com/contacts/"
+                href="https://ai4sus.github.io/contacts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://ai4sus.com/contacts/"
+                href="https://ai4sus.github.io/contacts/"
                 />
   </url><url>
-    <loc>https://ai4sus.com/features/</loc>
+    <loc>https://ai4sus.github.io/features/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ai4sus.com/features/"
+                href="https://ai4sus.github.io/features/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://ai4sus.com/features/"
+                href="https://ai4sus.github.io/features/"
                 />
   </url><url>
-    <loc>https://ai4sus.com/zh/tags/flowers/</loc>
+    <loc>https://ai4sus.github.io/zh/tags/flowers/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ai4sus.com/tags/flowers/"
+                href="https://ai4sus.github.io/tags/flowers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://ai4sus.com/zh/tags/flowers/"
+                href="https://ai4sus.github.io/zh/tags/flowers/"
                 />
   </url><url>
-    <loc>https://ai4sus.com/zh/tags/foss/</loc>
+    <loc>https://ai4sus.github.io/zh/tags/foss/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ai4sus.com/tags/foss/"
+                href="https://ai4sus.github.io/tags/foss/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://ai4sus.com/zh/tags/foss/"
+                href="https://ai4sus.github.io/zh/tags/foss/"
                 />
   </url><url>
-    <loc>https://ai4sus.com/zh/tags/growing/</loc>
+    <loc>https://ai4sus.github.io/zh/tags/growing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ai4sus.com/tags/growing/"
+                href="https://ai4sus.github.io/tags/growing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://ai4sus.com/zh/tags/growing/"
+                href="https://ai4sus.github.io/zh/tags/growing/"
                 />
   </url><url>
-    <loc>https://ai4sus.com/zh/tags/planting/</loc>
+    <loc>https://ai4sus.github.io/zh/tags/planting/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ai4sus.com/tags/planting/"
+                href="https://ai4sus.github.io/tags/planting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://ai4sus.com/zh/tags/planting/"
+                href="https://ai4sus.github.io/zh/tags/planting/"
                 />
   </url><url>
-    <loc>https://ai4sus.com/office/</loc>
+    <loc>https://ai4sus.github.io/office/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ai4sus.com/office/"
+                href="https://ai4sus.github.io/office/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="https://ai4sus.com/office/"
+                href="https://ai4sus.github.io/office/"
                 />
   </url>
 </urlset>
