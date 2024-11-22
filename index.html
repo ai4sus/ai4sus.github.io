@@ -20,7 +20,7 @@
             const contentMap = {
                 overview: `
             
-                    <div class="title">AI For Sustainability Overview</div>
+                    <div class="title">Overview</div>
                     <p>
                         Artificial Intelligence (AI) for sustainability encompasses innovative applications aimed at addressing environmental challenges and promoting energy efficiency. Our work in this domain focuses on key areas such as Non-Intrusive Load Monitoring (NILM) for granular energy consumption analysis and Battery Energy Storage System (BESS)-based peak shaving to optimize energy usage and reduce demand charges. By integrating advanced AI techniques, these efforts contribute to sustainable energy management and carbon footprint reduction.
                         These technologies are not standalone solutions; they are interconnected and mutually reinforcing. For instance, data from NILM can inform BESS operations by providing detailed insights into usage patterns, enabling better coordination between demand-side management and storage systems. This synergy creates a more adaptive and resilient energy ecosystem.
@@ -39,6 +39,7 @@
                         <p class="card-description">
                             This study addresses the challenges of deploying Non-Intrusive Load Monitoring (NILM) systems in real-world environments by proposing a three-tier framework based on edge-cloud collaboration. The framework distributes lightweight computational tasks to edge devices while leveraging the cloud for more complex tasks, ensuring efficiency and scalability. The implementation integrates Gunicorn and NGINX for better load balancing and concurrency handling. Experimental results demonstrate that this approach significantly reduces response time, alleviates cloud workload, and achieves high decomposition accuracy for NILM tasks, paving the way for practical NILM applications.
                         </p>
+                        <img src="assets/NILM-architecture.png">
                         <hr class="divider">
                         <p class="reference">
                             Junyu Xue, Yu Zhang, Xudong Wang, Yi Wang, Guoming Tang.
@@ -96,8 +97,10 @@
 <body>
     <header>
         <h1>AI For Sustainability</h1>
+        
         <nav>
             <ul>
+                <li> <img src="assets/logo.png"> </li>
                 <li><a href="#home" onclick="changeContent('overview')">OVERVIEW</a></li>
                 <li><a href="#info" onclick="changeContent('info')">INFO</a></li>
                 <li><a href="#research" onclick="changeContent('research')">RESEARCH</a></li>
@@ -109,7 +112,7 @@
 
 
     <div class="content">
-        <div class="title">AI For Sustainability Overview</div>
+        <div class="title">Overview</div>
         <p>
             Artificial Intelligence (AI) for sustainability encompasses innovative applications aimed at addressing environmental challenges and promoting energy efficiency. Our work in this domain focuses on key areas such as Non-Intrusive Load Monitoring (NILM) for granular energy consumption analysis and Battery Energy Storage System (BESS)-based peak shaving to optimize energy usage and reduce demand charges. By integrating advanced AI techniques, these efforts contribute to sustainable energy management and carbon footprint reduction.
             These technologies are not standalone solutions; they are interconnected and mutually reinforcing. For instance, data from NILM can inform BESS operations by providing detailed insights into usage patterns, enabling better coordination between demand-side management and storage systems. This synergy creates a more adaptive and resilient energy ecosystem.

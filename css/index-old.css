@@ -29,6 +29,10 @@ header nav ul li a {
     font-size: 20px;
 }
 
+header nav ul li img {
+    width: 7%;
+}
+
 
 .content {
     width: 900px;
@@ -72,6 +76,10 @@ footer {
     padding: 20px 30px;
     max-width: 900px;
     line-height: 1.6;
+}
+
+.card img {
+    width: 100%;
 }
 
 /* Title */
