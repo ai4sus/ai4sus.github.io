@@ -1,1 +1,99 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI4SUS</title><link>https://ai4sus.com/zh/</link><description>Recent content on AI4SUS</description><generator>Hugo</generator><language>zh-CN</language><copyright>© 2024 AI4SUS. All rights reserved.</copyright><atom:link href="https://ai4sus.com/zh/index.xml" rel="self" type="application/rss+xml"/><item><title>办公</title><link>https://ai4sus.com/office-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/office-zh/</guid><description/></item><item><title>服务</title><link>https://ai4sus.com/features-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/features-zh/</guid><description/></item><item><title>联系</title><link>https://ai4sus.com/contacts-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/contacts-zh/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI4SUS</title><link>https://ai4sus.com/zh/</link><description>Recent content on AI4SUS</description><generator>Hugo</generator><language>zh-CN</language><copyright>© 2024 AI4SUS. All rights reserved.</copyright><atom:link href="https://ai4sus.com/zh/index.xml" rel="self" type="application/rss+xml"/><item><title>About Us</title><link>https://ai4sus.com/about-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/about-zh/</guid><description/></item><item><title>Models</title><link>https://ai4sus.com/models-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/models-zh/</guid><description>&lt;!-- NILM Model -->
+&lt;section class="model-section">
+ &lt;h2 class="model-title">🏠 NILM: Non-Intrusive Load Monitoring Model&lt;/h2>
+ &lt;div class="row align-items-center">
+ &lt;div class="col-md-4">
+ &lt;img src="nilm-model.jpg" alt="NILM Model" class="model-image">
+ &lt;/div>
+ &lt;div class="col-md-8">
+ &lt;div class="model-content">
+ &lt;p>Our NILM model implements a three-tier framework to enhance real-world applicability through edge-cloud collaboration. Key features include:&lt;/p>
+ &lt;ul>
+ &lt;li>Lightweight edge computing implementation&lt;/li>
+ &lt;li>Deep learning based cloud processing&lt;/li>
+ &lt;li>High decomposition accuracy&lt;/li>
+ &lt;li>Reduced cloud workload and communication overhead&lt;/li>
+ &lt;/ul>
+ &lt;div class="reference-text">
+ &lt;p>&lt;strong>Reference:&lt;/strong> Junyu Xue, Yu Zhang, Xudong Wang, Yi Wang, and Guoming Tang. "Towards Real-world Deployment of NILM Systems: Challenges and Practices."&lt;/p>
+ &lt;p>&lt;strong>Available at:&lt;/strong> &lt;a href="https://arxiv.org/abs/2409.14821" class="available-link" target="_blank">https://arxiv.org/abs/2409.14821&lt;/a>&lt;/p></description></item><item><title>Solutions</title><link>https://ai4sus.com/solutions-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/solutions-zh/</guid><description>&lt;!-- Smart Building Solution -->
+&lt;section class="model-section">
+ &lt;h2 class="model-title">🏢 Smart Building Energy Management&lt;/h2>
+ &lt;div class="row align-items-center">
+ &lt;div class="col-md-4">
+ &lt;img src="smart-building-solution.jpg" alt="Smart Building Solution" class="model-image">
+ &lt;/div>
+ &lt;div class="col-md-8">
+ &lt;div class="model-content">
+ &lt;p>Comprehensive energy management solution for modern buildings. Benefits include:&lt;/p>
+ &lt;ul>
+ &lt;li>Automated HVAC optimization&lt;/li>
+ &lt;li>Smart lighting control&lt;/li>
+ &lt;li>Real-time energy monitoring&lt;/li>
+ &lt;li>20-30% energy cost reduction&lt;/li>
+ &lt;/ul>
+ &lt;div class="reference-text">
+ &lt;p>&lt;strong>Case Study:&lt;/strong> Successfully implemented in over 50 commercial buildings with average energy savings of 25%.&lt;/p>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+
+&lt;!-- Industrial Energy Solution -->
+&lt;section class="model-section">
+ &lt;h2 class="model-title">🏭 Industrial Energy Optimization&lt;/h2>
+ &lt;div class="row align-items-center">
+ &lt;div class="col-md-4">
+ &lt;img src="industrial-solution.jpg" alt="Industrial Solution" class="model-image">
+ &lt;/div>
+ &lt;div class="col-md-8">
+ &lt;div class="model-content">
+ &lt;p>Tailored energy solutions for industrial facilities. Key features include:&lt;/p></description></item><item><title>Systems</title><link>https://ai4sus.com/systems-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/systems-zh/</guid><description>&lt;!-- eSpur System -->
+&lt;section class="model-section">
+ &lt;h2 class="model-title">⚡ eSpur: Software-Defined Energy Configuration&lt;/h2>
+ &lt;div class="row align-items-center">
+ &lt;div class="col-md-4">
+ &lt;img src="espur-system.jpg" alt="eSpur System" class="model-image">
+ &lt;/div>
+ &lt;div class="col-md-8">
+ &lt;div class="model-content">
+ &lt;p>eSpur is an innovative intelligent power distribution device designed for next-generation data centers. Key features include:&lt;/p>
+ &lt;ul>
+ &lt;li>Plug-and-play functionality&lt;/li>
+ &lt;li>Dual power sources for enhanced reliability&lt;/li>
+ &lt;li>Multi-machine support&lt;/li>
+ &lt;li>Energy savings up to 21% per day&lt;/li>
+ &lt;li>Compact 1U design (44.5x440x384 mm)&lt;/li>
+ &lt;/ul>
+ &lt;div class="reference-text">
+ &lt;p>&lt;strong>Implementation:&lt;/strong> Successfully deployed in multiple data centers with proven energy efficiency improvements.&lt;/p>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+
+&lt;!-- Edge-Cloud System -->
+&lt;section class="model-section">
+ &lt;h2 class="model-title">☁️ Edge-Cloud Collaborative System&lt;/h2>
+ &lt;div class="row align-items-center">
+ &lt;div class="col-md-4">
+ &lt;img src="edge-cloud-system.jpg" alt="Edge-Cloud System" class="model-image">
+ &lt;/div>
+ &lt;div class="col-md-8">
+ &lt;div class="model-content">
+ &lt;p>Our edge-cloud collaborative system optimizes energy management through distributed computing. Features include:&lt;/p></description></item><item><title>办公</title><link>https://ai4sus.com/office-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/office-zh/</guid><description/></item><item><title>服务</title><link>https://ai4sus.com/features-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/features-zh/</guid><description/></item><item><title>合作</title><link>https://ai4sus.com/collaborations-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/collaborations-zh/</guid><description>&lt;div class="container">
+ &lt;!-- Project 1 -->
+ &lt;div class="row mb-5 align-items-center">
+ &lt;div class="col-md-4">
+ &lt;img src="project1.jpg" class="img-fluid rounded" alt="项目 1">
+ &lt;/div>
+ &lt;div class="col-md-8">
+ &lt;h3>项目标题 1&lt;/h3>
+ &lt;p>项目描述...&lt;/p>
+ &lt;/div>
+ &lt;/div>
+
+ &lt;!-- 其他项目 -->
+&lt;/div></description></item><item><title>联系</title><link>https://ai4sus.com/contacts-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/contacts-zh/</guid><description/></item></channel></rss>
