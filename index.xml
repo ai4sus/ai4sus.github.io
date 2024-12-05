@@ -45,7 +45,7 @@
  &lt;div class="model-content">
  &lt;p>To address the privacy concern in NILM applications, federated learning (FL) could be leveraged for NILM model training and sharing. When applying the FL paradigm in real-world NILM applications, however, we are faced with the challenges of edge resource restriction, edge model personalization, and edge training data scarcity. 
  We design FedNILM, a practical FL paradigm for NILM applications at the edge client. Specifically, FedNILM delivers privacy-preserving and personalized NILM services to large-scale edge clients, by leveraging i) collaborative data aggregation through federated learning, ii) efficient cloud model compression via filter pruning and multi-task learning, and iii) personalized edge model building with unsupervised transfer learning. Our experiments on real-world energy data show that FedNILM can achieve personalized energy disaggregation with the state-of-the-art accuracy, while preserving the user privacy.
- &lt;/p></description></item><item><title>Research</title><link>https://ai4sus.com/services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/services/</guid><description>&lt;div class="row g-4">
+ &lt;/p></description></item><item><title>Research</title><link>https://ai4sus.com/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/research/</guid><description>&lt;div class="row g-4">
  &lt;!-- Models Service -->
  &lt;div class="col-md-4">
  &lt;div class="card border-0 shadow-sm service-card">
