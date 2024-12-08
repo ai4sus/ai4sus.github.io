@@ -1,99 +1,234 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI4SUS</title><link>https://ai4sus.com/zh/</link><description>Recent content on AI4SUS</description><generator>Hugo</generator><language>zh-CN</language><copyright>© 2024 AI4SUS. All rights reserved.</copyright><atom:link href="https://ai4sus.com/zh/index.xml" rel="self" type="application/rss+xml"/><item><title>About Us</title><link>https://ai4sus.com/about-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/about-zh/</guid><description/></item><item><title>Models</title><link>https://ai4sus.com/models-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/models-zh/</guid><description>&lt;!-- NILM Model -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI4SUS</title><link>https://ai4sus.com/zh/</link><description>Recent content on AI4SUS</description><generator>Hugo</generator><language>zh-CN</language><copyright>© 2024 AI4SUS. All rights reserved.</copyright><atom:link href="https://ai4sus.com/zh/index.xml" rel="self" type="application/rss+xml"/><item><title>The Office</title><link>https://ai4sus.com/office/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/office/</guid><description/></item><item><title>合作</title><link>https://ai4sus.com/collaborations-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/collaborations-zh/</guid><description>&lt;!-- Project 1 -->
+&lt;div class="row mb-5 justify-content-center">
+ &lt;div class="col-md-10">
+ &lt;div class="card border-0 shadow-sm hover-card">
+ &lt;div class="row g-0 align-items-center">
+ &lt;div class="col-md-3 p-3">
+ &lt;img src="zendure.png" class="img-fluid rounded" alt="与Zendure的项目">
+ &lt;/div>
+ &lt;div class="col-md-9">
+ &lt;div class="card-body">
+ &lt;h3 class="card-title mb-3">家庭能源应用的非侵入式负载监测系统&lt;/h3>
+ &lt;h6 class="text-muted mb-3">Zendure Inc.&lt;/h6>
+ &lt;p class="card-text">开发了一套非侵入式负载监测算法和系统，经测试验证可以准确监测家用电器的状态和能源消耗。该算法和系统将被整合到Zendure的云服务产品中，用于家庭储能应用。相关软硬件产品预计将在欧洲和北美地区超过2,000个用户家庭中得到应用，产生显著的经济效益。&lt;/p>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+&lt;/div>
+
+&lt;!-- Project 2 -->
+&lt;div class="row mb-5 justify-content-center">
+ &lt;div class="col-md-10">
+ &lt;div class="card border-0 shadow-sm hover-card">
+ &lt;div class="row g-0 align-items-center">
+ &lt;div class="col-md-3 p-3">
+ &lt;img src="aimall.png" class="img-fluid rounded mx-auto d-block" alt="与AIMALL的项目" width="80%">
+ &lt;/div>
+ &lt;div class="col-md-9">
+ &lt;div class="card-body">
+ &lt;h3 class="card-title mb-3">边缘AI服务器的软件定义能源配置&lt;/h3>
+ &lt;h6 class="text-muted mb-3">AIMALL Inc.&lt;/h6>
+ &lt;p class="card-text">开发了一种用于边缘AI的软件定义能源配置方法和系统，经测试验证可以实现AI服务器的灵活电源配置，显著提高功率效率。该原型系统于2022年2月部署在AIMALL的AI业务服务器机房，已稳定运行超过24个月，为服务器累计节省电能超过1,500千瓦时。&lt;/p>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;!-- Project 3 -->
+&lt;div class="row mb-5 justify-content-center">
+ &lt;div class="col-md-10">
+ &lt;div class="card border-0 shadow-sm hover-card">
+ &lt;div class="row g-0 align-items-center">
+ &lt;div class="col-md-3 p-3">
+ &lt;img src="tencent.png" class="img-fluid rounded" alt="与腾讯的项目">
+ &lt;/div>
+ &lt;div class="col-md-9">
+ &lt;div class="card-body">
+ &lt;h3 class="card-title mb-3">应对电池焦虑的低功耗视频流架构&lt;/h3>
+ &lt;h6 class="text-muted mb-3">Tencent Inc.&lt;/h6>
+ &lt;p class="card-text">设计了一种低功耗、低视频流服务架构，创新性地将移动设备电池焦虑纳入设计过程。这种方法在保持视频流服务质量的同时有效降低了用户的低电量焦虑，从而提高用户留存率。该研究在2020年获得腾讯犀牛鸟基金优秀奖（创意基金的最高荣誉）。&lt;/p>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;!-- Project 4 -->
+&lt;div class="row mb-5 justify-content-center">
+ &lt;div class="col-md-10">
+ &lt;div class="card border-0 shadow-sm hover-card">
+ &lt;div class="row g-0 align-items-center">
+ &lt;div class="col-md-3 p-3">
+ &lt;img src="heyuan.png" class="img-fluid rounded mx-auto d-block" alt="与河源数据中心的项目">
+ &lt;/div>
+ &lt;div class="col-md-9">
+ &lt;div class="card-body">
+ &lt;h3 class="card-title mb-3">边缘AI中高功率GPU服务器的能源优化&lt;/h3>
+ &lt;h6 class="text-muted mb-3">Heyuan Datacenter&lt;/h6>
+ &lt;p class="card-text">为边缘AI开发了一套软件定义能源配置算法和系统，经测试验证可以实现高功率GPU服务器的灵活电源配置和效率提升，有效减少能源浪费。该原型系统于2022年5月在中心业务服务器机房部署，已稳定运行超过20个月，累计节省电能约1,200千瓦时。&lt;/p></description></item><item><title>联系</title><link>https://ai4sus.com/contacts-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/contacts-zh/</guid><description/></item><item><title>模型</title><link>https://ai4sus.com/models-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/models-zh/</guid><description>&lt;!-- NILM Model -->
 &lt;section class="model-section">
- &lt;h2 class="model-title">🏠 NILM: Non-Intrusive Load Monitoring Model&lt;/h2>
+ &lt;h2 class="model-title">FedNILM&lt;/h2>
  &lt;div class="row align-items-center">
  &lt;div class="col-md-4">
- &lt;img src="nilm-model.jpg" alt="NILM Model" class="model-image">
+ &lt;img src="image.png" alt="NILM Model" class="model-image">
  &lt;/div>
  &lt;div class="col-md-8">
  &lt;div class="model-content">
- &lt;p>Our NILM model implements a three-tier framework to enhance real-world applicability through edge-cloud collaboration. Key features include:&lt;/p>
- &lt;ul>
- &lt;li>Lightweight edge computing implementation&lt;/li>
- &lt;li>Deep learning based cloud processing&lt;/li>
- &lt;li>High decomposition accuracy&lt;/li>
- &lt;li>Reduced cloud workload and communication overhead&lt;/li>
- &lt;/ul>
+ &lt;p>为了解决NILM应用中的隐私问题，联邦学习(FL)可以用于NILM模型的训练和共享。然而，当在实际NILM应用中应用FL范式时，我们面临着边缘资源限制、边缘模型个性化和边缘训练数据稀缺等挑战。
+ 我们设计了FedNILM，这是一个面向边缘客户端NILM应用的实用FL范式。具体来说，FedNILM通过以下方式为大规模边缘客户端提供隐私保护和个性化的NILM服务：i) 通过联邦学习进行协作数据聚合，ii) 通过滤波器剪枝和多任务学习实现高效的云端模型压缩，以及iii) 通过无监督迁移学习构建个性化边缘模型。我们在真实能源数据上的实验表明，FedNILM可以在保护用户隐私的同时实现具有最先进精确度的个性化能源分解。&lt;/p>
  &lt;div class="reference-text">
- &lt;p>&lt;strong>Reference:&lt;/strong> Junyu Xue, Yu Zhang, Xudong Wang, Yi Wang, and Guoming Tang. "Towards Real-world Deployment of NILM Systems: Challenges and Practices."&lt;/p>
- &lt;p>&lt;strong>Available at:&lt;/strong> &lt;a href="https://arxiv.org/abs/2409.14821" class="available-link" target="_blank">https://arxiv.org/abs/2409.14821&lt;/a>&lt;/p></description></item><item><title>Solutions</title><link>https://ai4sus.com/solutions-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/solutions-zh/</guid><description>&lt;!-- Smart Building Solution -->
-&lt;section class="model-section">
- &lt;h2 class="model-title">🏢 Smart Building Energy Management&lt;/h2>
- &lt;div class="row align-items-center">
- &lt;div class="col-md-4">
- &lt;img src="smart-building-solution.jpg" alt="Smart Building Solution" class="model-image">
- &lt;/div>
- &lt;div class="col-md-8">
- &lt;div class="model-content">
- &lt;p>Comprehensive energy management solution for modern buildings. Benefits include:&lt;/p>
- &lt;ul>
- &lt;li>Automated HVAC optimization&lt;/li>
- &lt;li>Smart lighting control&lt;/li>
- &lt;li>Real-time energy monitoring&lt;/li>
- &lt;li>20-30% energy cost reduction&lt;/li>
- &lt;/ul>
- &lt;div class="reference-text">
- &lt;p>&lt;strong>Case Study:&lt;/strong> Successfully implemented in over 50 commercial buildings with average energy savings of 25%.&lt;/p>
+ &lt;p>&lt;strong>Reference:&lt;/strong> FedNILM: Applying Federated Learning to Collaborative NILM Applications, Yu Zhang, Guoming Tang*, Qianyi Huang, Yi Wang, Kui Wu, Keping Yu, Xun Shao, IEEE Transactions on Green Communications and Networking (TGCN), Vol. 7, No. 2, pp. 857-868, 2023.&lt;/p>
  &lt;/div>
  &lt;/div>
  &lt;/div>
  &lt;/div>
 &lt;/section>
 
-&lt;!-- Industrial Energy Solution -->
+&lt;!-- EVSense Model -->
 &lt;section class="model-section">
- &lt;h2 class="model-title">🏭 Industrial Energy Optimization&lt;/h2>
+ &lt;h2 class="model-title">Dual-DNN for NILM&lt;/h2>
  &lt;div class="row align-items-center">
  &lt;div class="col-md-4">
- &lt;img src="industrial-solution.jpg" alt="Industrial Solution" class="model-image">
+ &lt;img src="model2.png" alt="EVSense Model" class="model-image">
  &lt;/div>
  &lt;div class="col-md-8">
  &lt;div class="model-content">
- &lt;p>Tailored energy solutions for industrial facilities. Key features include:&lt;/p></description></item><item><title>Systems</title><link>https://ai4sus.com/systems-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/systems-zh/</guid><description>&lt;!-- eSpur System -->
-&lt;section class="model-section">
- &lt;h2 class="model-title">⚡ eSpur: Software-Defined Energy Configuration&lt;/h2>
- &lt;div class="row align-items-center">
- &lt;div class="col-md-4">
- &lt;img src="espur-system.jpg" alt="eSpur System" class="model-image">
- &lt;/div>
- &lt;div class="col-md-8">
- &lt;div class="model-content">
- &lt;p>eSpur is an innovative intelligent power distribution device designed for next-generation data centers. Key features include:&lt;/p>
- &lt;ul>
- &lt;li>Plug-and-play functionality&lt;/li>
- &lt;li>Dual power sources for enhanced reliability&lt;/li>
- &lt;li>Multi-machine support&lt;/li>
- &lt;li>Energy savings up to 21% per day&lt;/li>
- &lt;li>Compact 1U design (44.5x440x384 mm)&lt;/li>
- &lt;/ul>
+ &lt;p>最近的研究表明，基于深度神经网络(DNNs)的方法在NILM任务中显示出良好的前景。然而，它们通常在网络设计中忽略了设备操作的固有特性，可能导致不合理的结果。因此，我们受到启发开发了双深度神经网络(dual-DNN)，旨在：i) 利用DNNs学习潜在特征的能力，以及ii) 赋予DNN架构识别通用特性的能力。
+ 在dual-DNN的设计中，我们采用一个子网络来测量不同设备操作状态的功率额定值，另一个子网络来识别目标设备的运行状态。最终结果是通过将这两个网络输出相乘，同时考虑家用电器的多状态特性而获得的。为了强化设备状态操作的稀疏性，我们对状态识别的子网络采用了中值滤波和硬门控机制。与最先进的NILM方法相比，我们的dual-DNN方法在两个公共基准数据集上平均显示出22%的性能提升。&lt;/p>
  &lt;div class="reference-text">
- &lt;p>&lt;strong>Implementation:&lt;/strong> Successfully deployed in multiple data centers with proven energy efficiency improvements.&lt;/p>
+ &lt;p>&lt;strong>Reference:&lt;/strong> More Behind Your Electricity Bill: a Dual-DNN Approach to Non-Intrusive Load Monitoring, Yu Zhang, Guoming Tang*, Qianyi Huang, Yi Wang, Hong Xu, Xudong Wang, IEEE International Conference on Cyber Physical and Social Computing (CPSCom), Espoo, Finland, Aug. 2022.&lt;/p></description></item><item><title>团队</title><link>https://ai4sus.com/team-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/team-zh/</guid><description>&lt;!-- Leader Section -->
+ &lt;section class="mb-5">
+ &lt;h2 class="text-center mb-4">负责人&lt;/h2>
+ &lt;div class="row justify-content-center">
+ &lt;div class="col-md-10">
+ &lt;div class="card border-0 shadow-sm leader-card">
+ &lt;div class="row g-0 align-items-center">
+ &lt;div class="col-md-4 p-4 text-center">
+ &lt;img src="guomingtang-new.png" class="rounded-circle leader-image" alt="Leader Name">
+ &lt;/div>
+ &lt;div class="col-md-8">
+ &lt;div class="card-body">
+ &lt;h3 class="card-title">唐国明&lt;/h3>
+ &lt;h5 class="text-muted mb-3">助理教授, 香港科技大学（广州）&lt;/h5>
+ &lt;p>&lt;a href="https://guomingtang.github.io">个人主页&lt;/a>&lt;/p>
+ &lt;!-- &lt;p class="card-text">Guoming Tang received his PhD in Computer Science from University of Victoria, Canada, and both his Bachelor's and Master's degrees from National University of Defense Technology, China. His research mainly focuses on green/sustainable computing, cloud/edge computing, and applied AI/machine learning, where he has authored over 80 papers in top-tier journals (TON, JSAC, TPDS, TMC etc.) and prestigious conferences (INFOCOM, ICDCS, Middleware, e-Energy etc.).&lt;/p></description></item><item><title>系统</title><link>https://ai4sus.com/systems-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/systems-zh/</guid><description>&lt;!-- eSpur System -->
+&lt;section class="model-section">
+ &lt;h2 class="model-title">A Cloud-Edge Collaborated System for NILM&lt;/h2>
+ &lt;div class="row align-items-center">
+ &lt;div class="col-md-4">
+ &lt;img src="image.png" alt="NILM Model" class="model-image">
+ &lt;/div>
+ &lt;div class="col-md-8">
+ &lt;div class="model-content">
+ &lt;p>非侵入式负荷监测（NILM）作为一项关键的负荷监测技术，可以大大降低传统功率传感器的部署成本。以往的研究主要集中在开发纯云端NILM算法，这往往导致高计算成本和显著的服务延迟。为解决这些问题，我们提出了一个三层框架，通过边云协同来提高NILM系统的实际应用性。考虑到边缘和云端可用的计算资源，我们分别在边缘端实现了轻量级NILM模型，在云端实现了基于深度学习的模型。除了差异化的模型实现，我们还设计了一个特定于NILM的部署方案，该方案集成了Gunicorn和NGINX，以弥合理论算法和实际应用之间的差距。为验证所提框架的有效性，我们应用了真实世界的NILM场景设置，并实现了数据采集、模型训练和系统部署的整个过程。结果表明，在实际考虑因素下，我们的框架能够在显著减少云端工作负载和通信开销的同时实现高分解精度。&lt;/p>
+ &lt;div class="reference-text">
+ &lt;p>&lt;strong>Reference:&lt;/strong> Towards Real-world Deployment of NILM Systems: Challenges and Practices, Junyu Xue, Yu Zhang, Xudong Wang, Yi Wang, and Guoming Tang, arXiv preprint arXiv:2409.14821, 2024.&lt;/p>
+ &lt;p style="color: red;">&lt;strong>IEEE SustainCom 2024 最佳论文奖&lt;/strong>&lt;/p>
+ &lt;!-- &lt;p>&lt;strong>Available at:&lt;/strong> &lt;a href="https://arxiv.org/abs/2409.14821" class="available-link" target="_blank">https://arxiv.org/abs/2409.14821&lt;/a>&lt;/p> -->
  &lt;/div>
  &lt;/div>
  &lt;/div>
  &lt;/div>
 &lt;/section>
 
-&lt;!-- Edge-Cloud System -->
 &lt;section class="model-section">
- &lt;h2 class="model-title">☁️ Edge-Cloud Collaborative System&lt;/h2>
+ &lt;h2 class="model-title">A Low-Carbon Edge Computing System&lt;/h2>
  &lt;div class="row align-items-center">
  &lt;div class="col-md-4">
- &lt;img src="edge-cloud-system.jpg" alt="Edge-Cloud System" class="model-image">
+ &lt;img src="sys2.png" alt="NILM Model" class="model-image">
  &lt;/div>
  &lt;div class="col-md-8">
  &lt;div class="model-content">
- &lt;p>Our edge-cloud collaborative system optimizes energy management through distributed computing. Features include:&lt;/p></description></item><item><title>办公</title><link>https://ai4sus.com/office-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/office-zh/</guid><description/></item><item><title>服务</title><link>https://ai4sus.com/features-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/features-zh/</guid><description/></item><item><title>合作</title><link>https://ai4sus.com/collaborations-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/collaborations-zh/</guid><description>&lt;div class="container">
- &lt;!-- Project 1 -->
- &lt;div class="row mb-5 align-items-center">
+ &lt;p>地理分布的边缘服务器可以自然地从附近的可再生能源发电机获取电力。通过能源存储电池的动态调度补充，边缘服务提供商（ESPs）因此可以建立低碳甚至零碳边缘计算系统。然而，边缘计算系统的分布式和异构性质，以及ESP之间有限的信息共享，导致电池规划问题比云计算中更为复杂。可再生能源资源的不可预测性进一步使问题复杂化，使传统的基于模型的方法失效。
+
+我们提出并设计了一种多智能体深度强化学习（MADRL）方法，用于个别ESP的独立决策。特别是，MADRL考虑到隐私问题，确保ESP之间不会泄露敏感信息。为了更好的模型训练，我们进一步定制了无效动作掩码，并基于分段线性优化开发了动作转换技术。大量实验表明，使用我们提出的方法，边缘计算系统的整体碳排放可以显著减少（超过60%），同时在电池调度中保持可接受的运营成本。&lt;/p>
+ &lt;div class="reference-text">
+ &lt;p>&lt;strong>Reference:&lt;/strong> Rethinking Low-Carbon Edge Computing System Design with Renewable Energy Sharing, Hanlong Liao, Guoming Tang*, Deke Guo, Ruide Cao, Yi Wang, International Conference in Parallel Processing (ICPP), Gotland, Sweden, Aug. 2024.
+ &lt;/p></description></item><item><title>研究</title><link>https://ai4sus.com/research-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/research-zh/</guid><description>&lt;div class="row g-4">
+ &lt;!-- Models Service -->
  &lt;div class="col-md-4">
- &lt;img src="project1.jpg" class="img-fluid rounded" alt="项目 1">
+ &lt;div class="card border-0 shadow-sm service-card">
+ &lt;div class="card-body text-center p-4">
+ &lt;div class="service-icon">
+ &lt;i class="bi bi-lightbulb">&lt;/i>
  &lt;/div>
- &lt;div class="col-md-8">
- &lt;h3>项目标题 1&lt;/h3>
- &lt;p>项目描述...&lt;/p>
+ &lt;h3 class="card-title h4 mb-3">模型&lt;/h3>
+ &lt;p class="card-text mb-4">
+ 模型利用联邦学习、深度神经网络和数据驱动等先进技术，解决能源分解、电动汽车充电检测、占用检测和负载曲线数据分析等挑战，确保准确性、可扩展性和效率。
+ &lt;/p>
+ &lt;a href="https://ai4sus.com/models-zh" class="btn btn-outline-primary btn-learn-more">
+ 了解详情 &lt;i class="bi bi-arrow-right ms-2">&lt;/i>
+ &lt;/a>
+ &lt;/div>
  &lt;/div>
  &lt;/div>
 
- &lt;!-- 其他项目 -->
-&lt;/div></description></item><item><title>联系</title><link>https://ai4sus.com/contacts-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/contacts-zh/</guid><description/></item></channel></rss>
+ &lt;!-- Systems Service -->
+ &lt;div class="col-md-4">
+ &lt;div class="card border-0 shadow-sm service-card">
+ &lt;div class="card-body text-center p-4">
+ &lt;div class="service-icon">
+ &lt;i class="bi bi-gear">&lt;/i>
+ &lt;/div>
+ &lt;h3 class="card-title h4 mb-3">系统&lt;/h3>
+ &lt;p class="card-text mb-4">
+ 系统利用云边协同、多智能体强化学习和非侵入式电力分解等创新技术，实现高效能源监控、低碳计算、用户友好的能源分解以及数据中心的精细化电力监控。
+ &lt;/p>
+ &lt;a href="https://ai4sus.com/systems-zh" class="btn btn-outline-primary btn-learn-more">
+ 了解详情 &lt;i class="bi bi-arrow-right ms-2">&lt;/i>
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+
+ &lt;!-- Solutions Service -->
+ &lt;div class="col-md-4">
+ &lt;div class="card border-0 shadow-sm service-card">
+ &lt;div class="card-body text-center p-4">
+ &lt;div class="service-icon">
+ &lt;i class="bi bi-cpu">&lt;/i>
+ &lt;/div>
+ &lt;h3 class="card-title h4 mb-3">硬件&lt;/h3>
+ &lt;p class="card-text mb-4">
+ eSpur等硬件设备展示了创新硬件解决方案如何优化能源分配、通过双电源提高系统可靠性、支持多机配置，并无缝集成到现有基础设施中，为更智能、更节能的数据中心和建筑铺平道路。
+ &lt;/p>
+ &lt;a href="https://ai4sus.com/hardware-zh" class="btn btn-outline-primary btn-learn-more">
+ 了解详情 &lt;i class="bi bi-arrow-right ms-2">&lt;/i>
+ &lt;/a>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;!-- Additional Information Section -->
+&lt;!-- &lt;div class="row mt-5">
+&lt;div class="row mt-5">
+ &lt;div class="col-12">
+ &lt;div class="card border-0 shadow-sm p-4">
+ &lt;h3 class="text-center mb-4">为什么选择我们的服务？&lt;/h3>
+ &lt;div class="row g-4">
+ &lt;div class="col-md-4">
+ &lt;div class="text-center">
+ &lt;i class="bi bi-graph-up service-icon">&lt;/i>
+ &lt;h4 class="h5 mt-3">高性能&lt;/h4>
+ &lt;p>在能源效率提升方面有明显的实际成果&lt;/p></description></item><item><title>硬件</title><link>https://ai4sus.com/hardware-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/hardware-zh/</guid><description>&lt;!-- Smart Building Solution -->
+&lt;section class="model-section">
+ &lt;h2 class="model-title">eSpur: Software-Defined Energy Configuration&lt;/h2>
+ &lt;div class="row align-items-center">
+ &lt;div class="col-md-4">
+ &lt;img src="image.png" alt="Smart Building Solution" class="model-image">
+ &lt;/div>
+ &lt;div class="col-md-8">
+ &lt;div class="model-content">
+ &lt;p>eSpur是一款为下一代数据中心设计的创新型智能配电设备。它提供无缝的能源优化功能,具有即插即用、双电源供电提升可靠性、支持多机器高效配电等关键特性。实际测试表明,该设备每天可节省高达21%的能源,平均节能率约为10%。设备采用标准1U规格(44.5x440x384毫米)的紧凑设计,为智能能源管理提供对用户透明且易于使用的解决方案。&lt;/p>
+ &lt;div class="reference-text">
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section></description></item></channel></rss>

@@ -1,31 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI4SUS</title><link>https://ai4sus.com/</link><description>Recent content on AI4SUS</description><generator>Hugo</generator><language>en-US</language><copyright>© 2024 AI4SUS. All rights reserved.</copyright><atom:link href="https://ai4sus.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About Us</title><link>https://ai4sus.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/about/</guid><description>&lt;!-- Leader Section -->
- &lt;section class="mb-5">
- &lt;h2 class="text-center mb-4">Leader&lt;/h2>
- &lt;div class="row justify-content-center">
- &lt;div class="col-md-10">
- &lt;div class="card border-0 shadow-sm leader-card">
- &lt;div class="row g-0 align-items-center">
- &lt;div class="col-md-4 p-4 text-center">
- &lt;img src="guomingtang-new.png" class="rounded-circle leader-image" alt="Leader Name">
- &lt;/div>
- &lt;div class="col-md-8">
- &lt;div class="card-body">
- &lt;h3 class="card-title">Guoming Tang&lt;/h3>
- &lt;h5 class="text-muted mb-3">Assistant Professor, HKUST-GZ&lt;/h5>
- &lt;p>&lt;a href="https://guomingtang.github.io">Homepage&lt;/a>&lt;/p>
- &lt;!-- &lt;p class="card-text">Guoming Tang received his PhD in Computer Science from University of Victoria, Canada, and both his Bachelor's and Master's degrees from National University of Defense Technology, China. His research mainly focuses on green/sustainable computing, cloud/edge computing, and applied AI/machine learning, where he has authored over 80 papers in top-tier journals (TON, JSAC, TPDS, TMC etc.) and prestigious conferences (INFOCOM, ICDCS, Middleware, e-Energy etc.).&lt;/p></description></item><item><title>Collaborations</title><link>https://ai4sus.com/collaborations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/collaborations/</guid><description>&lt;!-- Project 1 -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI4SUS</title><link>https://ai4sus.com/</link><description>Recent content on AI4SUS</description><generator>Hugo</generator><language>en-US</language><copyright>© 2024 AI4SUS. All rights reserved.</copyright><atom:link href="https://ai4sus.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Collaborations</title><link>https://ai4sus.com/collaborations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/collaborations/</guid><description>&lt;!-- Project 1 -->
 &lt;div class="row mb-5 justify-content-center">
  &lt;div class="col-md-10">
  &lt;div class="card border-0 shadow-sm hover-card">
  &lt;div class="row g-0 align-items-center">
- &lt;div class="col-md-5 p-4">
+ &lt;div class="col-md-3 p-4">
  &lt;img src="zendure.png" class="img-fluid rounded" alt="Project with zendure">
  &lt;/div>
- &lt;div class="col-md-7">
+ &lt;div class="col-md-9">
  &lt;div class="card-body">
  &lt;h3 class="card-title mb-3">Non-Intrusive Load Monitoring System for Home Energy Applications&lt;/h3>
  &lt;h6 class="text-muted mb-3">Zendure Inc.&lt;/h6>
- &lt;p class="card-text">We have developed a non-intrusive load monitoring algorithm and system, which has been tested and verified to accurately monitor the status and energy consumption of household appliances. This algorithm and system will be integrated into Zendure's cloud service products for home energy storage applications. The related software and hardware products are expected to be adopted by over 2,000 customer households across Europe and North America, generating significant economic benefits.&lt;/p></description></item><item><title>Contacts</title><link>https://ai4sus.com/contacts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/contacts/</guid><description/></item><item><title>Hardware</title><link>https://ai4sus.com/solutions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/solutions/</guid><description>&lt;!-- Smart Building Solution -->
+ &lt;p class="card-text">We have developed a non-intrusive load monitoring algorithm and system, which has been tested and verified to accurately monitor the status and energy consumption of household appliances. This algorithm and system will be integrated into Zendure's cloud service products for home energy storage applications. The related software and hardware products are expected to be adopted by over 2,000 customer households across Europe and North America, generating significant economic benefits.&lt;/p></description></item><item><title>Contacts</title><link>https://ai4sus.com/contacts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/contacts/</guid><description/></item><item><title>Hardware</title><link>https://ai4sus.com/hardware/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/hardware/</guid><description>&lt;!-- Smart Building Solution -->
 &lt;section class="model-section">
  &lt;h2 class="model-title">eSpur: Software-Defined Energy Configuration&lt;/h2>
  &lt;div class="row align-items-center">
@@ -84,4 +69,19 @@
  &lt;div class="col-md-8">
  &lt;div class="model-content">
  &lt;p>Non-intrusive load monitoring (NILM), as a key load monitoring technology, can much reduce the deployment cost of traditional power sensors. Previous research has largely focused on developing cloud-exclusive NILM algorithms, which often result in high computation costs and significant service delays. To address these issues, we propose a three-tier framework to enhance the real-world applicability of NILM systems through edgecloud collaboration. Considering the computational resources available at both the edge and cloud, we implement a lightweight NILM model at the edge and a deep learning based model at the cloud, respectively. In addition to the differential model implementations, we also design a NILM-specific deployment scheme that integrates Gunicorn and NGINX to bridge the gap between theoretical algorithms and practical applications. To verify the effectiveness of the proposed framework, we apply real-world NILM scenario settings and implement the entire process of data acquisition, model training, and system deployment. The results demonstrate that our framework can achieve high decomposition accuracy while significantly reducing the cloud workload and communication overhead under practical considerations.
- &lt;/p></description></item><item><title>The Office</title><link>https://ai4sus.com/office/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/office/</guid><description/></item></channel></rss>
+ &lt;/p></description></item><item><title>Team</title><link>https://ai4sus.com/team/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/team/</guid><description>&lt;!-- Leader Section -->
+ &lt;section class="mb-5">
+ &lt;h2 class="text-center mb-4">Leader&lt;/h2>
+ &lt;div class="row justify-content-center">
+ &lt;div class="col-md-10">
+ &lt;div class="card border-0 shadow-sm leader-card">
+ &lt;div class="row g-0 align-items-center">
+ &lt;div class="col-md-4 p-4 text-center">
+ &lt;img src="guomingtang-new.png" class="rounded-circle leader-image" alt="Leader Name">
+ &lt;/div>
+ &lt;div class="col-md-8">
+ &lt;div class="card-body">
+ &lt;h3 class="card-title">Guoming Tang&lt;/h3>
+ &lt;h5 class="text-muted mb-3">Assistant Professor, HKUST-GZ&lt;/h5>
+ &lt;p>&lt;a href="https://guomingtang.github.io">Homepage&lt;/a>&lt;/p>
+ &lt;!-- &lt;p class="card-text">Guoming Tang received his PhD in Computer Science from University of Victoria, Canada, and both his Bachelor's and Master's degrees from National University of Defense Technology, China. His research mainly focuses on green/sustainable computing, cloud/edge computing, and applied AI/machine learning, where he has authored over 80 papers in top-tier journals (TON, JSAC, TPDS, TMC etc.) and prestigious conferences (INFOCOM, ICDCS, Middleware, e-Energy etc.).&lt;/p></description></item><item><title>The Office</title><link>https://ai4sus.com/office/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/office/</guid><description/></item></channel></rss>

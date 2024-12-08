@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on AI4SUS</title>
+    <link>http://localhost:1313/zh/pages/</link>
+    <description>Recent content in Pages on AI4SUS</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <copyright>© 2024 AI4SUS. All rights reserved.</copyright>
+    <atom:link href="http://localhost:1313/zh/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Models</title>
+      <link>http://localhost:1313/models-zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/models-zh/</guid>
+      <description>&lt;!-- NILM Model --&gt;&#xA;&lt;section class=&#34;model-section&#34;&gt;&#xA;  &lt;h2 class=&#34;model-title&#34;&gt;🏠 NILM: Non-Intrusive Load Monitoring Model&lt;/h2&gt;&#xA;  &lt;div class=&#34;row align-items-center&#34;&gt;&#xA;    &lt;div class=&#34;col-md-4&#34;&gt;&#xA;      &lt;img src=&#34;nilm-model.jpg&#34; alt=&#34;NILM Model&#34; class=&#34;model-image&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;col-md-8&#34;&gt;&#xA;      &lt;div class=&#34;model-content&#34;&gt;&#xA;        &lt;p&gt;Our NILM model implements a three-tier framework to enhance real-world applicability through edge-cloud collaboration. Key features include:&lt;/p&gt;&#xA;        &lt;ul&gt;&#xA;          &lt;li&gt;Lightweight edge computing implementation&lt;/li&gt;&#xA;          &lt;li&gt;Deep learning based cloud processing&lt;/li&gt;&#xA;          &lt;li&gt;High decomposition accuracy&lt;/li&gt;&#xA;          &lt;li&gt;Reduced cloud workload and communication overhead&lt;/li&gt;&#xA;        &lt;/ul&gt;&#xA;        &lt;div class=&#34;reference-text&#34;&gt;&#xA;          &lt;p&gt;&lt;strong&gt;Reference:&lt;/strong&gt; Junyu Xue, Yu Zhang, Xudong Wang, Yi Wang, and Guoming Tang. &#34;Towards Real-world Deployment of NILM Systems: Challenges and Practices.&#34;&lt;/p&gt;&#xA;          &lt;p&gt;&lt;strong&gt;Available at:&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2409.14821&#34; class=&#34;available-link&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/2409.14821&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>合作</title>
+      <link>http://localhost:1313/collaborations-zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/collaborations-zh/</guid>
+      <description>&lt;div class=&#34;container&#34;&gt;&#xA;  &lt;!-- Project 1 --&gt;&#xA;  &lt;div class=&#34;row mb-5 align-items-center&#34;&gt;&#xA;    &lt;div class=&#34;col-md-4&#34;&gt;&#xA;      &lt;img src=&#34;project1.jpg&#34; class=&#34;img-fluid rounded&#34; alt=&#34;项目 1&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;col-md-8&#34;&gt;&#xA;      &lt;h3&gt;项目标题 1&lt;/h3&gt;&#xA;      &lt;p&gt;项目描述...&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&#xA;  &lt;!-- 其他项目 --&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>联系</title>
+      <link>http://localhost:1313/contacts-zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contacts-zh/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
