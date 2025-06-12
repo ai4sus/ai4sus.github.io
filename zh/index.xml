@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI4SUS</title><link>https://ai4sus.com/zh/</link><description>Recent content on AI4SUS</description><generator>Hugo</generator><language>zh-CN</language><copyright>© 2024 AI4SUS. All rights reserved.</copyright><atom:link href="https://ai4sus.com/zh/index.xml" rel="self" type="application/rss+xml"/><item><title>The Office</title><link>https://ai4sus.com/office/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/office/</guid><description/></item><item><title>合作</title><link>https://ai4sus.com/collaborations-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/collaborations-zh/</guid><description>&lt;!-- Project 1 -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI4SUS</title><link>https://ai4sus.com/zh/</link><description>Recent content on AI4SUS</description><generator>Hugo</generator><language>zh-CN</language><copyright>© 2025 AI4SUS. All rights reserved.</copyright><atom:link href="https://ai4sus.com/zh/index.xml" rel="self" type="application/rss+xml"/><item><title>The Office</title><link>https://ai4sus.com/office/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/office/</guid><description/></item><item><title>合作</title><link>https://ai4sus.com/collaborations-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/collaborations-zh/</guid><description>&lt;div class="row mb-5 justify-content-center">
+ &lt;div class="col-md-10">
+ &lt;div class="card border-0 shadow-sm hover-card">
+ &lt;div class="row g-0 align-items-center">
+ &lt;div class="col-md-3 p-4">
+ &lt;img src="zhonghong.png" class="img-fluid rounded" alt="与中弘合作项目">
+ &lt;/div>
+ &lt;div class="col-md-9">
+ &lt;div class="card-body">
+ &lt;h3 class="card-title mb-3">楼宇能耗预测与智能控制&lt;/h3>
+ &lt;h6 class="text-muted mb-3">中海宏洋低碳科技有限公司&lt;/h6>
+ &lt;p class="card-text">为应对大型商用建筑高能耗带来的运营与环境挑战，我们开发了先进的人工智能系统。该系统结合深度学习与强化学习模型，能够实现精准的能耗预测和智能自动化控制，从而优化建筑能效。&lt;/p>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+
+ &lt;!-- Project 1 -->
 &lt;div class="row mb-5 justify-content-center">
  &lt;div class="col-md-10">
  &lt;div class="card border-0 shadow-sm hover-card">
@@ -9,7 +29,7 @@
  &lt;div class="col-md-9">
  &lt;div class="card-body">
  &lt;h3 class="card-title mb-3">家庭能源应用的非侵入式负载监测系统&lt;/h3>
- &lt;h6 class="text-muted mb-3">Zendure Inc.&lt;/h6>
+ &lt;h6 class="text-muted mb-3">疆海科技&lt;/h6>
  &lt;p class="card-text">开发了一套非侵入式负载监测算法和系统，经测试验证可以准确监测家用电器的状态和能源消耗。该算法和系统将被整合到Zendure的云服务产品中，用于家庭储能应用。相关软硬件产品预计将在欧洲和北美地区超过2,000个用户家庭中得到应用，产生显著的经济效益。&lt;/p>
  &lt;/div>
  &lt;/div>
@@ -29,7 +49,7 @@
  &lt;div class="col-md-9">
  &lt;div class="card-body">
  &lt;h3 class="card-title mb-3">边缘AI服务器的软件定义能源配置&lt;/h3>
- &lt;h6 class="text-muted mb-3">AIMALL Inc.&lt;/h6>
+ &lt;h6 class="text-muted mb-3">爱莫科技&lt;/h6>
  &lt;p class="card-text">开发了一种用于边缘AI的软件定义能源配置方法和系统，经测试验证可以实现AI服务器的灵活电源配置，显著提高功率效率。该原型系统于2022年2月部署在AIMALL的AI业务服务器机房，已稳定运行超过24个月，为服务器累计节省电能超过1,500千瓦时。&lt;/p>
  &lt;/div>
  &lt;/div>
@@ -49,7 +69,7 @@
  &lt;div class="col-md-9">
  &lt;div class="card-body">
  &lt;h3 class="card-title mb-3">应对电池焦虑的低功耗视频流架构&lt;/h3>
- &lt;h6 class="text-muted mb-3">Tencent Inc.&lt;/h6>
+ &lt;h6 class="text-muted mb-3">腾讯&lt;/h6>
  &lt;p class="card-text">设计了一种低功耗、低视频流服务架构，创新性地将移动设备电池焦虑纳入设计过程。这种方法在保持视频流服务质量的同时有效降低了用户的低电量焦虑，从而提高用户留存率。该研究在2020年获得腾讯犀牛鸟基金优秀奖（创意基金的最高荣誉）。&lt;/p>
  &lt;/div>
  &lt;/div>
@@ -69,8 +89,47 @@
  &lt;div class="col-md-9">
  &lt;div class="card-body">
  &lt;h3 class="card-title mb-3">边缘AI中高功率GPU服务器的能源优化&lt;/h3>
- &lt;h6 class="text-muted mb-3">Heyuan Datacenter&lt;/h6>
- &lt;p class="card-text">为边缘AI开发了一套软件定义能源配置算法和系统，经测试验证可以实现高功率GPU服务器的灵活电源配置和效率提升，有效减少能源浪费。该原型系统于2022年5月在中心业务服务器机房部署，已稳定运行超过20个月，累计节省电能约1,200千瓦时。&lt;/p></description></item><item><title>联系</title><link>https://ai4sus.com/contacts-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/contacts-zh/</guid><description/></item><item><title>模型</title><link>https://ai4sus.com/models-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/models-zh/</guid><description>&lt;!-- NILM Model -->
+ &lt;h6 class="text-muted mb-3">河源数据中心&lt;/h6>
+ &lt;p class="card-text">为边缘AI开发了一套软件定义能源配置算法和系统，经测试验证可以实现高功率GPU服务器的灵活电源配置和效率提升，有效减少能源浪费。该原型系统于2022年5月在中心业务服务器机房部署，已稳定运行超过20个月，累计节省电能约1,200千瓦时。&lt;/p></description></item><item><title>联系</title><link>https://ai4sus.com/contacts-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/contacts-zh/</guid><description/></item><item><title>模型</title><link>https://ai4sus.com/models-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/models-zh/</guid><description>&lt;section class="model-section">
+ &lt;h2 class="model-title">ZSMerge&lt;/h2>
+ &lt;div class="row align-items-center">
+ &lt;div class="col-md-4">
+ &lt;img src="model8.png" alt="Zsmerge Model" class="model-image">
+ &lt;/div>
+ &lt;div class="col-md-8">
+ &lt;div class="model-content">
+ &lt;p>在长上下文处理任务中，键值（KV）缓存内存的线性增长和注意力机制中计算复杂度的二次增长，成为大语言模型（LLM）面临的重大瓶颈。现有的KV缓存优化方法通常通过Token剪枝或特征合并来应对这些挑战，但往往会导致不可逆的信息损失或需要高昂的参数重训练成本。为此，我们提出了ZSMerge——一个面向高效缓存管理的动态KV缓存压缩框架，具有三项核心操作：（1）基于多维Token重要性指标、在head级别实现细粒度内存分配；（2）通过补偿注意力分数的残差合并机制，保留关键上下文信息；（3）无需重训练即可兼容多种LLM架构的零样本自适应机制。ZSMerge在提升内存效率和推理速度的同时，几乎不会带来性能损失。应用于LLaMA2-7B时，ZSMerge实现了20:1的KV缓存压缩比（将内存占用降至基线的5%），同时保持了可比的生成质量，并在极端的54k-token上下文下带来三倍的吞吐提升，彻底消除了内存溢出问题。代码已开源，地址为：https://github.com/SusCom-Lab/ZSMerge。
+ &lt;/p>
+ &lt;div class="reference-text">
+ &lt;p>&lt;strong>Reference:&lt;/strong> Liu, Xin, Pei Liu, and Guoming Tang. "ZSMerge: Zero-Shot KV Cache Compression for Memory-Efficient Long-Context LLMs." arXiv preprint arXiv:2503.10714 (2025).&lt;/p>
+ &lt;!-- &lt;p>&lt;strong>Available at:&lt;/strong> &lt;a href="https://arxiv.org/abs/2409.14821" class="available-link" target="_blank">https://arxiv.org/abs/2409.14821&lt;/a>&lt;/p> -->
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+
+&lt;section class="model-section">
+ &lt;h2 class="model-title">LLM4NILM&lt;/h2>
+ &lt;div class="row align-items-center">
+ &lt;div class="col-md-4">
+ &lt;img src="model7.png" alt="LLM4NILM Model" class="model-image">
+ &lt;/div>
+ &lt;div class="col-md-8">
+ &lt;div class="model-content">
+ &lt;p>非侵入式负载监测（NILM）旨在将家庭总用电量分解为各个电器的用电情况，从而实现更有效的能源管理。尽管深度学习推动了NILM的发展，但其依赖标注数据、泛化能力有限以及缺乏可解释性等问题仍然存在。本文提出了首个基于提示（prompt）的NILM框架，利用大语言模型（LLM）及其上下文学习能力。我们设计并评估了融合电器特征、时间戳、上下文信息以及具有代表性的时间序列示例的提示策略，并在广泛使用的公开数据集上进行了实验。通过优化提示，LLM无需微调即可实现有竞争力的状态检测准确率，并展现出强大的泛化能力。LLM还能通过为预测结果提供清晰、易于理解的解释，增强模型的可解释性。我们的结果表明，LLM能够降低数据需求、提升适应性，并为NILM应用提供透明的能耗分解过程。
+ &lt;/p>
+ &lt;div class="reference-text">
+ &lt;p>&lt;strong>Reference:&lt;/strong> Prompting Large Language Models for Training-Free Non-Intrusive Load Monitoring, Junyu Xue, Xudong Wang, Xiaoling He, Shicheng Liu, Yi Wang and Guoming Tang, arXiv preprint arXiv:2505.06330 (2025).&lt;/p>
+ &lt;!-- &lt;p>&lt;strong>Available at:&lt;/strong> &lt;a href="https://arxiv.org/abs/2409.14821" class="available-link" target="_blank">https://arxiv.org/abs/2409.14821&lt;/a>&lt;/p> -->
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+
+
+&lt;!-- NILM Model -->
 &lt;section class="model-section">
  &lt;h2 class="model-title">FedNILM&lt;/h2>
  &lt;div class="row align-items-center">
@@ -80,28 +139,7 @@
  &lt;div class="col-md-8">
  &lt;div class="model-content">
  &lt;p>为了解决NILM应用中的隐私问题，联邦学习(FL)可以用于NILM模型的训练和共享。然而，当在实际NILM应用中应用FL范式时，我们面临着边缘资源限制、边缘模型个性化和边缘训练数据稀缺等挑战。
- 我们设计了FedNILM，这是一个面向边缘客户端NILM应用的实用FL范式。具体来说，FedNILM通过以下方式为大规模边缘客户端提供隐私保护和个性化的NILM服务：i) 通过联邦学习进行协作数据聚合，ii) 通过滤波器剪枝和多任务学习实现高效的云端模型压缩，以及iii) 通过无监督迁移学习构建个性化边缘模型。我们在真实能源数据上的实验表明，FedNILM可以在保护用户隐私的同时实现具有最先进精确度的个性化能源分解。&lt;/p>
- &lt;div class="reference-text">
- &lt;p>&lt;strong>Reference:&lt;/strong> FedNILM: Applying Federated Learning to Collaborative NILM Applications, Yu Zhang, Guoming Tang*, Qianyi Huang, Yi Wang, Kui Wu, Keping Yu, Xun Shao, IEEE Transactions on Green Communications and Networking (TGCN), Vol. 7, No. 2, pp. 857-868, 2023.&lt;/p>
- &lt;/div>
- &lt;/div>
- &lt;/div>
- &lt;/div>
-&lt;/section>
-
-&lt;!-- EVSense Model -->
-&lt;section class="model-section">
- &lt;h2 class="model-title">Dual-DNN for NILM&lt;/h2>
- &lt;div class="row align-items-center">
- &lt;div class="col-md-4">
- &lt;img src="model2.png" alt="EVSense Model" class="model-image">
- &lt;/div>
- &lt;div class="col-md-8">
- &lt;div class="model-content">
- &lt;p>最近的研究表明，基于深度神经网络(DNNs)的方法在NILM任务中显示出良好的前景。然而，它们通常在网络设计中忽略了设备操作的固有特性，可能导致不合理的结果。因此，我们受到启发开发了双深度神经网络(dual-DNN)，旨在：i) 利用DNNs学习潜在特征的能力，以及ii) 赋予DNN架构识别通用特性的能力。
- 在dual-DNN的设计中，我们采用一个子网络来测量不同设备操作状态的功率额定值，另一个子网络来识别目标设备的运行状态。最终结果是通过将这两个网络输出相乘，同时考虑家用电器的多状态特性而获得的。为了强化设备状态操作的稀疏性，我们对状态识别的子网络采用了中值滤波和硬门控机制。与最先进的NILM方法相比，我们的dual-DNN方法在两个公共基准数据集上平均显示出22%的性能提升。&lt;/p>
- &lt;div class="reference-text">
- &lt;p>&lt;strong>Reference:&lt;/strong> More Behind Your Electricity Bill: a Dual-DNN Approach to Non-Intrusive Load Monitoring, Yu Zhang, Guoming Tang*, Qianyi Huang, Yi Wang, Hong Xu, Xudong Wang, IEEE International Conference on Cyber Physical and Social Computing (CPSCom), Espoo, Finland, Aug. 2022.&lt;/p></description></item><item><title>团队</title><link>https://ai4sus.com/team-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/team-zh/</guid><description>&lt;!-- Leader Section -->
+ 我们设计了FedNILM，这是一个面向边缘客户端NILM应用的实用FL范式。具体来说，FedNILM通过以下方式为大规模边缘客户端提供隐私保护和个性化的NILM服务：i) 通过联邦学习进行协作数据聚合，ii) 通过滤波器剪枝和多任务学习实现高效的云端模型压缩，以及iii) 通过无监督迁移学习构建个性化边缘模型。我们在真实能源数据上的实验表明，FedNILM可以在保护用户隐私的同时实现具有最先进精确度的个性化能源分解。&lt;/p></description></item><item><title>团队</title><link>https://ai4sus.com/team-zh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/team-zh/</guid><description>&lt;!-- Leader Section -->
  &lt;section class="mb-5">
  &lt;h2 class="text-center mb-4">负责人&lt;/h2>
  &lt;div class="row justify-content-center">

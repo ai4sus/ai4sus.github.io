@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI4SUS</title><link>https://ai4sus.com/</link><description>Recent content on AI4SUS</description><generator>Hugo</generator><language>en-US</language><copyright>© 2024 AI4SUS. All rights reserved.</copyright><atom:link href="https://ai4sus.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Collaborations</title><link>https://ai4sus.com/collaborations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/collaborations/</guid><description>&lt;!-- Project 1 -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI4SUS</title><link>https://ai4sus.com/</link><description>Recent content on AI4SUS</description><generator>Hugo</generator><language>en-US</language><copyright>© 2025 AI4SUS. All rights reserved.</copyright><atom:link href="https://ai4sus.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Collaborations</title><link>https://ai4sus.com/collaborations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/collaborations/</guid><description>&lt;!-- Project 1 -->
 &lt;div class="row mb-5 justify-content-center">
  &lt;div class="col-md-10">
  &lt;div class="card border-0 shadow-sm hover-card">
  &lt;div class="row g-0 align-items-center">
  &lt;div class="col-md-3 p-4">
- &lt;img src="zendure.png" class="img-fluid rounded" alt="Project with zendure">
+ &lt;img src="zhonghong.png" class="img-fluid rounded" alt="Project with zhonghong">
  &lt;/div>
  &lt;div class="col-md-9">
  &lt;div class="card-body">
- &lt;h3 class="card-title mb-3">Non-Intrusive Load Monitoring System for Home Energy Applications&lt;/h3>
- &lt;h6 class="text-muted mb-3">Zendure Inc.&lt;/h6>
- &lt;p class="card-text">We have developed a non-intrusive load monitoring algorithm and system, which has been tested and verified to accurately monitor the status and energy consumption of household appliances. This algorithm and system will be integrated into Zendure's cloud service products for home energy storage applications. The related software and hardware products are expected to be adopted by over 2,000 customer households across Europe and North America, generating significant economic benefits.&lt;/p></description></item><item><title>Contacts</title><link>https://ai4sus.com/contacts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/contacts/</guid><description/></item><item><title>Hardware</title><link>https://ai4sus.com/hardware/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/hardware/</guid><description>&lt;!-- Smart Building Solution -->
+ &lt;h3 class="card-title mb-3">AI for Building Energy Prediction and Control&lt;/h3>
+ &lt;h6 class="text-muted mb-3">CHINA OVERSEAS GRAND OCEANS LOWCARBON TECHNOLOGY CO.. LTD.&lt;/h6>
+ &lt;p class="card-text">To combat the significant operational and environmental challenges of high energy consumption in large commercial buildings, we have developed an advanced AI system. Our system utilizes deep learning and reinforcement learning models to deliver precise energy forecasts and execute intelligent, automated control, thereby optimizing efficiency.&lt;/p></description></item><item><title>Contacts</title><link>https://ai4sus.com/contacts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/contacts/</guid><description/></item><item><title>Hardware</title><link>https://ai4sus.com/hardware/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/hardware/</guid><description>&lt;!-- Smart Building Solution -->
 &lt;section class="model-section">
  &lt;h2 class="model-title">eSpur: Software-Defined Energy Configuration&lt;/h2>
  &lt;div class="row align-items-center">
@@ -19,17 +19,15 @@
  &lt;/div>
  &lt;div class="col-md-8">
  &lt;div class="model-content">
- &lt;p>eSpur is an innovative inteligent power distribution device designed for next-generation data centers. lt offersseamless energy optimization with key features such as plug-and-play functionality, dual power sources forenhanced relilability, and multi-machine support for efficient power distribution. Real-world tests indicate energysavings of up to 21% per day, with an average savings of approximately 10%. The device is compact, fiingstandard 1U specifications (44.5x440x384 mm), and provides user-transparent, easy-to-use solutions for smartenergy management.&lt;/p></description></item><item><title>Models</title><link>https://ai4sus.com/models/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/models/</guid><description>&lt;!-- NILM Model -->
-&lt;section class="model-section">
- &lt;h2 class="model-title">FedNILM&lt;/h2>
+ &lt;p>eSpur is an innovative inteligent power distribution device designed for next-generation data centers. lt offersseamless energy optimization with key features such as plug-and-play functionality, dual power sources forenhanced relilability, and multi-machine support for efficient power distribution. Real-world tests indicate energysavings of up to 21% per day, with an average savings of approximately 10%. The device is compact, fiingstandard 1U specifications (44.5x440x384 mm), and provides user-transparent, easy-to-use solutions for smartenergy management.&lt;/p></description></item><item><title>Models</title><link>https://ai4sus.com/models/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/models/</guid><description>&lt;section class="model-section">
+ &lt;h2 class="model-title">ZSMerge&lt;/h2>
  &lt;div class="row align-items-center">
  &lt;div class="col-md-4">
- &lt;img src="image.png" alt="NILM Model" class="model-image">
+ &lt;img src="model8.png" alt="Zsmerge Model" class="model-image">
  &lt;/div>
  &lt;div class="col-md-8">
  &lt;div class="model-content">
- &lt;p>To address the privacy concern in NILM applications, federated learning (FL) could be leveraged for NILM model training and sharing. When applying the FL paradigm in real-world NILM applications, however, we are faced with the challenges of edge resource restriction, edge model personalization, and edge training data scarcity. 
- We design FedNILM, a practical FL paradigm for NILM applications at the edge client. Specifically, FedNILM delivers privacy-preserving and personalized NILM services to large-scale edge clients, by leveraging i) collaborative data aggregation through federated learning, ii) efficient cloud model compression via filter pruning and multi-task learning, and iii) personalized edge model building with unsupervised transfer learning. Our experiments on real-world energy data show that FedNILM can achieve personalized energy disaggregation with the state-of-the-art accuracy, while preserving the user privacy.
+ &lt;p>The linear growth of key-value (KV) cache memory and quadratic computational in attention mechanisms complexity pose significant bottlenecks for large language models (LLMs) in long-context processing. While existing KV cache optimization methods address these challenges through token pruning or feature merging, they often incur irreversible information loss or require costly parameter retraining. To this end, we propose ZSMerge, a dynamic KV cache compression framework designed for efficient cache management, featuring three key operations: (1) fine-grained memory allocation guided by multi-dimensional token importance metrics at head-level granularity, (2) a residual merging mechanism that preserves critical context through compensated attention scoring, and (3) a zero-shot adaptation mechanism compatible with diverse LLM architectures without requiring retraining. ZSMerge significantly enhances memory efficiency and inference speed with negligible performance degradation across LLMs. When applied to LLaMA2-7B, it demonstrates a 20:1 compression ratio for key-value cache retention (reducing memory footprint to 5\% of baseline) while sustaining comparable generation quality, coupled with triple throughput gains at extreme 54k-token contexts that eliminate out-of-memory failures. The code is available at https://github.com/SusCom-Lab/ZSMerge.
  &lt;/p></description></item><item><title>Research</title><link>https://ai4sus.com/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ai4sus.com/research/</guid><description>&lt;div class="row g-4">
  &lt;!-- Models Service -->
  &lt;div class="col-md-4">
